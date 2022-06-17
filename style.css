@@ -1,0 +1,48 @@
+body
+{
+    background-image: url(images/back.jpg);
+}
+.profiletxt 
+{
+    color:white;
+    text-align: center;
+}
+.profile
+{
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+.intro
+{
+    color:white;
+    font-size: 15px;
+    text-align: center;
+}
+.favorite
+{
+    color:white;
+    text-align: center;
+}
+.ball
+{
+    color:white;
+    text-align: center;
+}
+.favorites
+{
+    color:white;
+    text-align: center;
+}
+.dots
+{
+    color:white;
+    text-align: center;
+}
+.legend
+{
+    color:white;
+    text-align: center;
+}
